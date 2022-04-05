@@ -1,0 +1,202 @@
+---
+title: "Gender-Inequality-Development-Index-of-Countries.Rmd"
+author: "Shrawani Misra"
+date: "06/03/2022"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+## **Gender Inequality and Development Index of Countries**
+
+*The data used in this project will be used to study the average Gender Inequality and Gender Development Indices of countries over the world. It gives us a measure of the state of affairs in terms of gender equality for men and women and how well or poor circumstances have changed or developed, over the years.*
+
+*Data has been sourced from "Gender Budgeting and Gender Equality macroeconomic and financial data" published by IMF at https://data.imf.org/?sk=AC81946B-43E4-4FF3-84C7-217A6BDE8191&sId=1472837511014*
+*(Table downloaded from tab "Query the data and create your own table". Data taken for all countries and indicators for the years 2000-2013) *
+
+*The original dataset has the following columns:*
+
+*1. Countries :  Every country over the world has been included in the data.*
+
+*2. Gender_index : Gender Index is a column consisting of two values which are indicators themselves, Gender Development Index and Gender Inequality Index.*
+
+*3. 2001, 2002....2013 : Discrete values of years for which the respective data has been collected.*
+
+
+**Project coding**
+
+Loading the libraries required in the project
+
+
+```{r }
+library(tidyverse)
+library(kableExtra)
+
+library(tidyr)
+library(dplyr)
+```
+
+Reading the data from dataset and displaying top records in R Markdown in kable table.
+
+```{r }
+df_xl = read_csv("Assignment1-Misra-Gender-Inequality-Development-Index-of-Countries.csv")
+kbl(head(df_xl, n=5))%>%
+  kable_paper(bootstrap_options = "striped", full_width=F)
+```
+
+## **Data Cleaning and Wrangling**
+
+Cleaning the data using tidyr package, and making sure:
+
+1. Every observation has its own row (Country-wise data)
+
+2. Every variable has its own column (Gender_Development_Index and Gender_Inequality_Index)
+
+1. **Pivot longer** : First, I have made a new column for all the years listed and added the values to a temporary column called Index_value. The structure of the table is now narrower and longer.
+
+
+2. **Pivot wider** : Then I have put values of Gender_Development_Index and Gender_Inequality_Index from Gender_Index column to make two separate columns, and fed the values according to Index_value. The structure of the table is now wider and shorter. Hence, now every variable has its own column.
+
+
+Even though NA values do not violate tidy data principles, proceeding to clean the rows with NA values.
+
+
+
+```{r }
+df_long=df_xl %>% pivot_longer(c('2000','2001','2002','2003','2004','2005','2006','2007'
+                                 ,'2008','2009','2010','2011','2012','2013'), 
+                               names_to = "Year", values_to = "Index_value")                
+
+
+df_wide=df_long %>% pivot_wider(names_from = "Gender_Index" , 
+                          values_from = "Index_value")
+
+df_wo_na=df_wide[complete.cases(df_wide),]
+
+
+```
+
+## **Data Visualization**
+
+Creating vector of a finite amount of countries from every continent for better visualization. 
+
+```{r }
+vec= c('Afghanistan, Islamic Republic of','Canada','France','Ghana','Iceland','India', 
+       'Iran, Islamic Republic of','Iraq','Israel','Japan', 'Kazakhstan','Kenya',
+       'Korea, Republic of','Kuwait','Malaysia', 'Mexico','New Zealand','South Africa',
+       'Thailand','Turkey','United States' )
+
+df=df_wo_na[df_wo_na$Country %in% vec,]
+
+```
+
+Loading libraries necessary for plotting 
+
+```{r}
+library(ggplot2)
+library(scales)
+library(RColorBrewer)
+```
+
+## Gender Development Index of Countries over the years
+
+For measuring how countries compare to others in terms of their Gender Development index to other countries, I first deduce the mean of the variable Gender_Development_Index from the dataframe consisting of all countries without NA values. 
+
+**Comparing the index values of countries we can see if they were above average or below average. Some countries have had better performance on average (shown in blue) and others below average (shown in red). Using facets, year-wise visualization has been done.**
+
+Most countries have been consistent in their performance although some have shown improvement over the years in being above average like Mexico, Republic of Korea.
+
+
+*(Clearer labels of years and index values available in Rstudio view than Rmarkdown)*
+
+```{r }
+above_avg_GDI=df$Gender_Development_Index>mean(df_wo_na$Gender_Development_Index)
+
+ggplot(data = df, mapping = aes(
+  x=Country, y=Gender_Development_Index, color=above_avg_GDI)) +
+  geom_point(size=2)+
+  facet_grid(~Year,) +
+  ggtitle("Gender Development of Countries 2000-2013")+
+  xlab("Country")+ylab("Gender Development Index")+
+  coord_flip()
+```
+
+## Gender Inequality Index of Countries 
+
+Now, plotting how countries have fared for their Gender Inequality Index. Using a scatter plot, it is easier to see how the distribution of the values has been. 
+
+Some countries have been consistent with their good performance, like France, Iceland while Afghanistan has consistently fared poor. Countries like Turkey, Thailand, Mexico have had intermediate values of inequalities over the years.
+
+**The graph has been color coded to denote good equality among genders (low Gender Inequality Index) as Green and poor equality among genders (high Gender Inequality Index) as Red** 
+
+
+```{r }
+ggplot(data = df, mapping = aes(
+  x=Country, y=Gender_Inequality_Index )) +
+  geom_point(stat="identity",aes(col=Gender_Inequality_Index), size=5)+
+  scale_color_gradient(low="green",
+                       high = "tomato1",
+                       guide="colourbar",
+                       aesthetics = "colour")+
+  ggtitle("Gender Inequality in Countries 2000-2013")+
+  xlab("Country")+ylab("Gender Inequality Index")+
+  coord_flip()
+```
+
+## Comparing Indices 
+
+Adding the values of the two indices and grouping by countries, we create a new vector to plot both the indices together.
+
+Plotting both the values together.
+
+```{r }
+df_twin=df %>%
+  group_by(Country) %>%
+  summarise(Devlpm_Score = sum(Gender_Development_Index), 
+            Ineqlty_Score=sum(Gender_Inequality_Index)) %>%
+  arrange(desc(Ineqlty_Score))
+
+Index = c(df_twin$Devlpm_Score,df_twin$Ineqlty_Score)
+
+
+ggplot(df_twin %>% gather(Devlpm_Score, Ineqlty_Score, -Country),
+       aes(x = Country,
+           y = Index , 
+           fill = Devlpm_Score, Ineqlty_Score)) +
+  geom_bar(stat = 'identity', position='dodge') + coord_flip() +
+  ggtitle("Indices of Countries")+
+  xlab("Country")+ylab("Index")+
+  scale_fill_brewer(palette = "Paired")
+
+```
+
+
+
+**Plotting both aggregate indices over the years there is a clearer trend in Inequality Index than Development Index.**
+
+```{r }
+
+p1=ggplot(df, aes(x=reorder(Country, Gender_Development_Index),
+                       y= Gender_Development_Index))+ 
+  geom_bar(stat='identity', size=4)+
+  ggtitle("Gender Development in Descending order")+
+  xlab("Country")+ylab("Gender Development Index")+
+  coord_flip()
+
+p1
+
+p2=ggplot(df_twin, aes(x=reorder(Country, Ineqlty_Score),
+                       y= Ineqlty_Score))+ 
+            geom_bar(stat='identity',color="tan", size=8)+
+   ggtitle("Gender Inequality in Descending order")+
+  xlab("Country")+ylab("Gender Inequality Index")+
+  coord_flip()
+
+p2
+```
+
+**Thus, concluding that:**
+
+**1. Most countries have had consistent and comparable gender development over the years.**
+
+**2. Despite development, gender inequality still exists in many countries.**

@@ -1,0 +1,295 @@
+Country,Gender_Index,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013
+"Afghanistan, Islamic Republic of",Gender_Development_Index,0.45,0.46,0.45,0.47,0.45,0.46,0.47,0.48,0.49,0.55,0.57,0.59,0.60,0.60
+"Afghanistan, Islamic Republic of",Gender_Inequality_Index,0.77,0.77,0.76,0.75,0.75,0.74,0.73,0.73,0.72,0.72,0.71,0.70,0.70,0.69
+Albania,Gender_Development_Index,0.94,0.94,0.94,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95
+Albania,Gender_Inequality_Index,0.39,0.38,0.37,0.36,0.35,0.33,0.32,0.31,0.31,0.25,0.24,0.24,0.24,0.22
+Algeria,Gender_Development_Index,,,,,0.80,0.81,0.81,0.82,0.83,0.84,0.84,0.84,0.85,0.85
+Algeria,Gender_Inequality_Index,0.60,0.59,0.55,0.54,0.54,0.53,0.52,0.50,0.50,0.49,0.49,0.49,0.40,0.40
+Argentina,Gender_Development_Index,0.97,0.98,0.97,0.97,0.97,0.98,0.98,0.98,0.99,0.99,0.99,0.99,0.99,0.99
+Argentina,Gender_Inequality_Index,0.41,0.40,0.39,0.39,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.38,0.37
+"Armenia, Republic of",Gender_Development_Index,0.93,0.92,0.92,0.92,0.94,0.95,0.96,0.97,0.97,0.97,0.98,0.98,0.98,0.98
+"Armenia, Republic of",Gender_Inequality_Index,0.45,0.44,0.44,0.41,0.39,0.39,0.39,0.35,0.35,0.34,0.34,0.34,0.32,0.32
+Australia,Gender_Development_Index,0.97,0.96,0.96,0.96,0.96,0.96,0.97,0.97,0.97,0.97,0.97,0.97,0.97,0.97
+Australia,Gender_Inequality_Index,0.16,0.15,0.15,0.15,0.15,0.14,0.14,0.14,0.13,0.13,0.13,0.13,0.12,0.11
+Austria,Gender_Development_Index,0.93,0.93,0.93,0.93,0.93,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94
+Austria,Gender_Inequality_Index,0.15,0.15,0.14,0.13,0.12,0.12,0.12,0.11,0.12,0.10,0.09,0.08,0.07,0.05
+"Azerbaijan, Republic of",Gender_Development_Index,,,,,,,,0.93,0.94,0.95,0.95,0.95,0.95,0.95
+"Bahamas, The",Gender_Development_Index,1.00,,,,,,,,,,,,,
+"Bahrain, Kingdom of",Gender_Development_Index,0.91,0.92,0.92,0.93,0.93,0.94,0.93,0.94,0.93,0.94,0.94,0.93,0.94,0.94
+"Bahrain, Kingdom of",Gender_Inequality_Index,,,,0.61,0.60,0.59,0.39,0.39,0.39,0.39,0.39,0.30,0.29,0.29
+Bangladesh,Gender_Development_Index,0.80,,,,,0.87,0.88,0.88,0.89,0.89,0.89,0.90,0.90,0.90
+Bangladesh,Gender_Inequality_Index,0.62,0.64,0.68,0.67,0.67,0.57,0.56,0.57,0.59,0.53,0.52,0.51,0.51,0.50
+Barbados,Gender_Development_Index,1.00,1.00,1.00,1.01,1.01,1.01,1.01,1.02,1.02,1.03,1.02,1.02,1.02,1.02
+Barbados,Gender_Inequality_Index,0.39,0.38,0.38,0.36,0.35,0.35,0.37,0.38,0.41,0.42,0.43,0.42,0.41,0.37
+Belarus,Gender_Development_Index,,,,,,,,,,1.02,1.02,1.02,1.02,1.01
+Belgium,Gender_Development_Index,0.98,0.98,0.98,0.98,0.97,0.97,0.97,0.97,0.98,0.97,0.98,0.98,0.98,0.99
+Belgium,Gender_Inequality_Index,0.13,0.13,0.13,0.11,0.10,0.10,0.10,0.10,0.09,0.09,0.08,0.07,0.07,0.07
+Belize,Gender_Development_Index,,0.94,0.94,0.95,0.95,0.95,0.95,0.96,0.96,0.96,0.96,0.96,0.97,0.97
+Belize,Gender_Inequality_Index,0.56,0.55,0.54,0.58,0.53,0.52,0.51,0.55,0.72,0.71,0.71,0.70,0.52,0.51
+Benin,Gender_Development_Index,0.76,0.76,0.77,0.77,0.78,0.79,0.79,0.79,0.79,0.79,0.79,0.82,0.82,0.82
+Benin,Gender_Inequality_Index,0.67,0.67,0.66,0.66,0.65,0.65,0.64,0.62,0.62,0.61,0.61,0.62,0.62,0.61
+Bhutan,Gender_Development_Index,,,,,,0.92,,,,,,,,
+Bolivia,Gender_Development_Index,,,,,,,,0.92,0.92,0.92,0.93,0.93,0.93,0.94
+Bolivia,Gender_Inequality_Index,0.58,0.58,0.55,0.54,0.54,0.54,0.54,0.53,0.53,0.51,0.50,0.49,0.49,0.49
+Botswana,Gender_Development_Index,0.95,0.95,0.94,0.93,0.93,0.92,0.92,0.92,0.91,0.91,0.90,0.90,0.90,0.90
+Botswana,Gender_Inequality_Index,0.53,0.53,0.52,0.52,0.54,0.53,0.52,0.52,0.51,0.52,0.51,0.50,0.50,0.49
+Brazil,Gender_Inequality_Index,0.52,0.51,0.51,0.49,0.48,0.48,0.47,0.47,0.47,0.47,0.46,0.46,0.46,0.46
+Brunei Darussalam,Gender_Development_Index,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.97,0.96,0.97,0.97
+Bulgaria,Gender_Development_Index,0.99,0.98,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+Bulgaria,Gender_Inequality_Index,0.35,0.28,0.27,0.26,0.25,0.25,0.24,0.23,0.22,0.22,0.22,0.21,0.20,0.20
+Burkina Faso,Gender_Development_Index,,,,,,,0.81,0.82,,,,,,
+Burundi,Gender_Development_Index,0.83,0.83,0.83,0.83,0.84,0.85,0.87,0.88,0.88,0.88,0.90,0.91,0.91,0.92
+Burundi,Gender_Inequality_Index,0.59,0.58,0.57,0.56,0.56,0.53,0.53,0.52,0.52,0.51,0.51,0.51,0.50,0.50
+Cambodia,Gender_Development_Index,0.85,0.85,0.86,0.86,0.88,0.88,0.88,0.87,0.88,0.88,0.89,0.89,0.89,0.89
+Cambodia,Gender_Inequality_Index,0.61,0.61,0.60,0.58,0.58,0.57,0.56,0.51,0.52,0.49,0.48,0.48,0.48,0.47
+Cameroon,Gender_Development_Index,,0.85,0.84,0.85,0.85,0.85,0.85,0.86,0.86,0.87,0.87,0.88,0.88,0.88
+Cameroon,Gender_Inequality_Index,0.69,0.69,0.67,0.67,0.66,0.66,0.66,0.63,0.63,0.63,0.63,0.62,0.62,0.58
+Canada,Gender_Development_Index,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98
+Canada,Gender_Inequality_Index,0.16,0.15,0.15,0.14,0.14,0.15,0.15,0.15,0.15,0.15,0.15,0.14,0.14,0.13
+Central African Republic,Gender_Development_Index,0.73,0.73,0.73,,,,,,,0.78,0.78,0.78,0.79,0.78
+Central African Republic,Gender_Inequality_Index,0.70,0.70,0.70,0.69,0.69,0.68,0.68,0.68,0.67,0.68,0.67,0.66,0.66,
+Chad,Gender_Development_Index,,,,,0.72,0.72,0.72,0.72,0.74,0.74,0.75,0.76,0.76,0.76
+Chile,Gender_Development_Index,0.93,0.93,0.93,0.94,0.94,0.94,0.94,0.95,0.95,0.95,0.96,0.96,0.96,0.96
+Chile,Gender_Inequality_Index,0.42,0.42,0.41,0.40,0.40,0.38,0.38,0.37,0.37,0.37,0.36,0.35,0.35,0.35
+"China, P.R.: Hong Kong",Gender_Development_Index,,,,,,,,,0.97,0.97,0.97,0.98,0.97,0.97
+"China, P.R.: Macao",Gender_Development_Index,,,0.95,0.95,0.95,0.96,0.96,0.96,0.97,0.97,,,,
+"China, P.R.: Mainland",Gender_Development_Index,0.90,0.90,0.90,0.91,0.92,0.92,0.93,0.93,0.93,0.94,0.94,0.94,0.94,0.94
+"China, P.R.: Mainland",Gender_Inequality_Index,0.23,0.23,0.23,0.24,0.23,0.23,0.23,0.22,0.22,0.21,0.21,0.20,0.20,0.19
+Colombia,Gender_Development_Index,0.97,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.99
+Colombia,Gender_Inequality_Index,0.53,0.52,0.51,0.50,0.50,0.49,0.51,0.50,0.50,0.49,0.46,0.46,0.46,0.46
+"Congo, Democratic Republic of",Gender_Development_Index,,,,,,,,0.78,0.79,0.80,0.80,0.80,0.81,0.82
+"Congo, Democratic Republic of",Gender_Inequality_Index,0.68,,,,0.67,0.67,0.68,0.68,0.68,0.68,0.68,0.67,0.67,0.67
+"Congo, Republic of",Gender_Development_Index,0.89,0.89,0.89,0.88,0.88,0.89,0.89,0.89,0.89,0.89,0.89,0.89,0.92,0.92
+"Congo, Republic of",Gender_Inequality_Index,0.62,0.62,0.62,0.63,0.63,0.62,0.62,0.63,0.62,0.62,0.62,0.62,0.62,0.61
+Costa Rica,Gender_Development_Index,,,,,0.94,0.94,0.95,0.95,0.95,0.96,0.96,0.96,0.96,0.97
+Costa Rica,Gender_Inequality_Index,0.44,0.42,0.39,0.39,0.39,0.38,0.37,0.36,0.35,0.35,0.33,0.34,0.34,0.34
+Cote d'Ivoire,Gender_Development_Index,0.75,0.75,0.75,0.75,0.75,0.76,0.76,0.76,0.77,0.77,,,,0.81
+Cote d'Ivoire,Gender_Inequality_Index,0.69,0.69,0.69,0.69,0.69,0.69,0.69,0.68,0.68,0.68,0.68,0.67,0.67,0.67
+Croatia,Gender_Development_Index,0.97,0.97,0.97,0.97,0.97,0.98,0.98,0.98,0.98,0.98,0.99,0.98,0.98,0.98
+Croatia,Gender_Inequality_Index,0.18,0.18,0.18,0.18,0.17,0.17,0.17,0.18,0.18,0.17,0.17,0.16,0.16,0.15
+Cuba,Gender_Inequality_Index,0.41,0.40,0.40,0.38,0.38,0.37,0.37,0.37,0.36,0.36,0.37,0.36,0.36,0.36
+Cyprus,Gender_Development_Index,0.94,0.94,0.94,0.94,0.93,0.93,0.94,0.94,0.95,0.95,0.96,0.96,0.97,0.97
+Cyprus,Gender_Inequality_Index,0.24,0.20,0.19,0.18,0.15,0.15,0.15,0.14,0.14,0.14,0.13,0.14,0.14,0.13
+Czech Republic,Gender_Development_Index,0.96,0.96,0.97,0.97,0.97,0.97,0.97,0.97,0.97,0.97,0.98,0.98,0.98,0.98
+Czech Republic,Gender_Inequality_Index,0.17,0.16,0.15,0.15,0.15,0.15,0.15,0.15,0.15,0.14,0.11,0.10,0.08,0.09
+Denmark,Gender_Development_Index,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.99,0.99,0.98,0.98,0.98
+Denmark,Gender_Inequality_Index,0.07,0.07,0.07,0.06,0.06,0.06,0.06,0.06,0.06,0.05,0.05,0.05,0.05,0.05
+Dominican Republic,Gender_Development_Index,,,,,,,,,,,,,0.99,0.99
+Dominican Republic,Gender_Inequality_Index,0.51,0.51,0.50,0.51,0.51,0.51,0.50,0.50,0.50,0.50,0.50,0.49,0.48,0.47
+Ecuador,Gender_Development_Index,,,,,,,,,,,,,0.98,0.98
+Ecuador,Gender_Inequality_Index,0.50,0.49,0.49,0.48,0.48,0.48,0.45,0.45,0.45,0.43,0.43,0.43,0.42,0.41
+Egypt,Gender_Development_Index,0.78,0.82,0.82,0.82,0.83,0.82,0.83,0.84,0.84,0.85,0.85,0.85,0.85,0.85
+Egypt,Gender_Inequality_Index,0.64,0.63,0.63,0.62,0.61,0.62,0.62,0.61,0.60,0.60,0.48,0.58,0.58,
+El Salvador,Gender_Development_Index,0.94,0.94,0.93,0.94,0.94,0.94,0.95,0.96,0.96,0.96,0.96,0.96,0.96,0.96
+El Salvador,Gender_Inequality_Index,0.52,0.52,0.51,0.50,0.50,0.50,0.47,0.47,0.47,0.46,0.45,0.45,0.43,0.43
+Estonia,Gender_Development_Index,1.02,1.03,1.03,1.03,1.04,1.03,1.03,1.03,1.03,1.04,1.03,1.03,1.03,1.03
+Estonia,Gender_Inequality_Index,0.27,0.26,0.26,0.25,0.25,0.25,0.24,0.22,0.19,0.16,0.16,0.16,0.15,0.16
+Ethiopia,Gender_Development_Index,,,,,,,,0.80,,,,0.80,0.81,0.81
+Fiji,Gender_Development_Index,,,,0.93,0.93,0.93,0.93,0.93,0.93,0.94,0.94,0.93,0.93,0.93
+Fiji,Gender_Inequality_Index,0.47,0.49,0.48,0.49,0.46,0.46,0.46,0.45,0.45,0.44,0.43,0.43,0.42,0.42
+Finland,Gender_Development_Index,1.00,1.00,1.01,1.00,1.00,1.00,1.00,1.01,1.00,1.01,1.00,1.00,1.00,1.00
+Finland,Gender_Inequality_Index,0.09,0.09,0.09,0.09,0.09,0.08,0.08,0.08,0.08,0.08,0.08,0.08,0.07,0.07
+France,Gender_Development_Index,0.99,0.99,0.98,0.98,0.98,0.98,0.98,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+France,Gender_Inequality_Index,0.17,0.18,0.17,0.17,0.17,0.17,0.16,0.14,0.13,0.13,0.12,0.12,0.09,0.08
+Gabon,Gender_Development_Index,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,,,,
+Gabon,Gender_Inequality_Index,0.58,0.58,0.57,0.57,0.57,0.56,0.55,0.53,0.53,0.53,0.53,0.52,0.52,0.51
+"Gambia, The",Gender_Development_Index,0.79,0.79,0.79,0.79,0.79,0.80,,,0.89,0.89,0.89,0.88,0.89,0.89
+"Gambia, The",Gender_Inequality_Index,0.72,0.72,0.67,0.63,0.62,0.62,0.62,0.63,0.63,0.64,0.64,0.64,0.63,0.63
+Georgia,Gender_Development_Index,,,0.92,0.93,0.93,0.92,0.93,0.93,0.94,0.94,0.94,0.94,0.94,0.95
+Germany,Gender_Development_Index,0.94,0.95,0.95,0.95,0.96,0.96,0.96,0.96,,,,,,0.96
+Germany,Gender_Inequality_Index,0.13,0.12,0.12,0.11,0.11,0.11,0.10,0.10,0.09,0.08,0.07,0.06,0.05,0.04
+Ghana,Gender_Development_Index,0.86,0.86,0.86,0.87,0.87,0.87,0.88,0.88,0.89,0.89,0.89,0.89,0.89,0.90
+Ghana,Gender_Inequality_Index,0.61,0.61,0.60,0.60,0.59,0.58,0.58,0.57,0.59,0.58,0.58,0.57,0.56,0.55
+Greece,Gender_Development_Index,0.94,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.96,0.96,0.96,0.96,0.96
+Greece,Gender_Inequality_Index,0.22,0.22,0.21,0.22,0.18,0.19,0.19,0.18,0.18,0.16,0.16,0.16,0.15,0.14
+Guatemala,Gender_Development_Index,,,0.88,0.89,0.89,0.89,0.90,0.91,0.91,0.92,0.92,0.92,0.94,0.94
+Guatemala,Gender_Inequality_Index,0.59,0.59,0.59,0.59,0.59,0.59,0.58,0.55,0.55,0.55,0.54,0.53,0.53,0.53
+Guinea,Gender_Development_Index,,,,,,,,,,,0.77,0.78,0.78,0.78
+Guyana,Gender_Development_Index,,,,,,0.96,0.95,0.96,0.96,0.96,0.97,0.98,0.98,0.99
+Guyana,Gender_Inequality_Index,0.54,0.54,0.54,0.54,0.52,0.53,0.53,0.53,0.52,0.52,0.52,0.52,0.51,0.51
+Haiti,Gender_Inequality_Index,0.64,0.63,0.63,0.63,0.63,0.62,0.65,0.61,0.61,0.61,0.55,0.60,0.60,0.59
+Honduras,Gender_Development_Index,0.92,0.92,,,,,,,0.95,0.95,0.95,0.96,0.97,0.97
+Honduras,Gender_Inequality_Index,0.57,0.57,0.60,0.59,0.59,0.51,0.51,0.50,0.50,0.51,0.51,0.50,0.50,0.50
+Hungary,Gender_Development_Index,0.98,0.98,0.98,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.98,0.98
+Hungary,Gender_Inequality_Index,0.25,0.25,0.25,0.24,0.25,0.25,0.25,0.25,0.25,0.25,0.26,0.25,0.23,0.22
+Iceland,Gender_Development_Index,0.98,0.99,0.99,0.99,1.00,1.00,1.00,1.00,1.00,1.01,1.01,1.00,1.00,1.00
+Iceland,Gender_Inequality_Index,0.13,0.12,0.12,0.12,0.12,0.11,0.11,0.11,0.11,0.09,0.09,0.09,0.09,0.08
+India,Gender_Development_Index,0.76,0.76,0.76,0.78,0.78,0.78,0.78,0.79,0.79,0.80,0.80,0.81,0.81,0.81
+India,Gender_Inequality_Index,0.65,0.65,0.64,0.63,0.63,0.62,0.62,0.61,0.60,0.59,0.59,0.58,0.57,0.57
+Indonesia,Gender_Development_Index,0.90,0.90,0.90,0.90,0.90,0.90,0.91,0.91,0.91,0.91,0.92,0.92,0.92,0.93
+Indonesia,Gender_Inequality_Index,0.58,0.58,0.57,0.57,0.55,0.55,0.54,0.54,0.53,0.51,0.50,0.50,0.49,0.49
+"Iran, Islamic Republic of",Gender_Development_Index,0.78,0.79,0.80,0.81,0.83,0.84,0.84,0.85,0.85,0.85,0.85,0.86,0.86,0.86
+"Iran, Islamic Republic of",Gender_Inequality_Index,0.59,0.58,0.55,0.54,0.53,0.52,0.51,0.51,0.54,0.54,0.53,0.53,0.52,0.52
+Iraq,Gender_Development_Index,0.74,0.74,0.74,0.75,0.76,0.76,0.78,0.79,0.78,0.79,0.79,0.79,0.80,0.80
+Iraq,Gender_Inequality_Index,0.63,0.63,0.63,0.60,0.58,0.57,0.56,0.56,0.56,0.55,0.55,0.55,0.54,0.54
+Ireland,Gender_Development_Index,0.98,0.98,0.98,0.98,0.97,0.97,0.97,0.97,0.98,0.98,0.98,0.97,0.97,0.97
+Ireland,Gender_Inequality_Index,0.21,0.21,0.20,0.20,0.20,0.19,0.19,0.19,0.18,0.17,0.16,0.14,0.13,0.13
+Israel,Gender_Development_Index,0.96,0.95,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.97,0.97,0.97,0.97,0.97
+Israel,Gender_Inequality_Index,0.19,0.18,0.18,0.17,0.17,0.17,0.17,0.17,0.16,0.14,0.13,0.12,0.11,0.09
+Italy,Gender_Development_Index,0.95,0.95,0.95,0.95,0.96,0.96,0.96,0.96,0.96,0.96,0.97,0.97,0.97,0.97
+Italy,Gender_Inequality_Index,0.18,0.18,0.18,0.17,0.17,0.17,0.14,0.14,0.12,0.11,0.10,0.10,0.09,0.06
+Jamaica,Gender_Development_Index,0.98,0.98,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+Jamaica,Gender_Inequality_Index,0.47,0.47,0.47,0.47,0.47,0.47,0.46,0.45,0.45,0.45,0.45,0.45,0.45,0.44
+Japan,Gender_Development_Index,0.95,0.95,0.95,0.95,0.96,0.95,0.95,0.95,0.95,0.96,0.96,0.96,0.96,0.96
+Japan,Gender_Inequality_Index,0.17,0.17,0.18,0.18,0.17,0.16,0.15,0.15,0.15,0.13,0.13,0.14,0.16,0.16
+Jordan,Gender_Development_Index,0.82,0.82,0.83,0.83,0.82,0.83,0.84,0.86,0.85,0.86,0.86,0.87,0.87,0.87
+Jordan,Gender_Inequality_Index,0.76,0.66,0.65,0.58,0.58,0.57,0.56,0.53,0.53,0.52,0.49,0.48,0.48,0.47
+Kazakhstan,Gender_Development_Index,0.99,0.99,1.00,1.01,1.01,1.02,1.02,1.02,1.01,1.01,1.00,1.00,1.00,1.00
+Kazakhstan,Gender_Inequality_Index,0.40,0.39,0.37,0.37,0.36,0.35,0.35,0.32,0.32,0.31,0.31,0.30,0.27,0.25
+Kenya,Gender_Development_Index,0.87,0.87,0.86,0.87,0.87,0.87,0.88,0.89,0.89,0.90,0.91,0.91,0.91,0.91
+Kenya,Gender_Inequality_Index,0.68,0.68,0.68,0.65,0.65,0.65,0.64,0.63,0.61,0.61,0.60,0.60,0.60,0.56
+"Korea, Republic of",Gender_Development_Index,0.91,0.91,0.91,0.91,0.91,0.92,0.92,0.92,0.92,0.92,0.93,0.93,0.93,0.93
+"Korea, Republic of",Gender_Inequality_Index,0.19,0.19,0.18,0.18,0.12,0.12,0.12,0.11,0.12,0.12,0.12,0.12,0.12,0.13
+Kuwait,Gender_Development_Index,0.95,0.95,0.95,0.96,0.96,0.96,0.97,0.97,0.96,0.97,0.97,0.97,0.96,0.96
+Kuwait,Gender_Inequality_Index,0.57,0.57,0.56,0.56,0.55,0.36,0.36,0.36,0.31,0.25,0.26,0.26,0.27,0.28
+Kyrgyz Republic,Gender_Development_Index,0.94,0.94,0.95,0.95,0.95,0.95,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.97
+Kyrgyz Republic,Gender_Inequality_Index,0.54,0.44,0.43,0.43,0.43,0.68,0.68,0.36,0.36,0.35,0.36,0.36,0.35,0.35
+Lao People's Democratic Republic,Gender_Development_Index,0.85,0.85,0.85,0.86,0.86,0.87,0.87,0.88,0.88,0.89,0.90,0.90,0.90,0.91
+Lao People's Democratic Republic,Gender_Inequality_Index,0.58,0.57,0.56,0.55,0.55,0.54,0.53,0.53,0.52,0.51,0.50,0.50,0.49,0.48
+Latvia,Gender_Development_Index,1.02,1.02,1.03,1.03,1.02,1.04,1.04,1.04,1.04,1.03,1.03,1.03,1.02,1.02
+Latvia,Gender_Inequality_Index,0.30,0.28,0.26,0.24,0.23,0.22,0.23,0.23,0.23,0.22,0.23,0.20,0.18,0.15
+Lebanon,Gender_Development_Index,,,,,,,,0.88,0.88,0.90,0.89,0.89,0.89,0.89
+Lesotho,Gender_Development_Index,0.97,0.97,0.96,0.96,0.96,0.96,0.96,0.95,0.95,0.95,0.95,0.95,0.96,0.96
+Lesotho,Gender_Inequality_Index,0.64,0.64,0.60,0.59,0.58,0.58,0.58,0.55,0.55,0.55,0.55,0.55,0.54,0.54
+Liberia,Gender_Development_Index,0.76,0.76,0.77,,0.76,0.76,0.77,0.77,0.77,0.78,0.78,0.78,0.79,0.79
+Liberia,Gender_Inequality_Index,0.70,0.70,0.70,0.70,0.71,0.67,0.67,0.67,0.66,0.66,0.65,0.66,0.65,0.65
+Libya,Gender_Development_Index,,,0.91,0.91,0.92,0.92,0.93,0.93,0.93,0.94,0.94,0.93,0.94,0.94
+Libya,Gender_Inequality_Index,,,,,,0.25,0.21,0.20,0.20,0.19,0.19,0.15,0.13,0.13
+Lithuania,Gender_Development_Index,1.02,1.02,1.02,1.02,1.03,1.03,1.03,1.04,1.03,1.04,1.03,1.03,1.03,1.03
+Lithuania,Gender_Inequality_Index,0.28,0.27,0.26,0.24,0.19,0.17,0.16,0.16,0.17,0.16,0.15,0.14,0.12,0.12
+Luxembourg,Gender_Development_Index,,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96
+Luxembourg,Gender_Inequality_Index,0.18,0.18,0.19,0.19,0.17,0.17,0.16,0.15,0.15,0.15,0.14,0.12,0.13,0.11
+Malawi,Gender_Development_Index,0.83,0.83,0.83,0.83,0.84,0.84,0.86,0.87,0.87,0.88,0.89,0.89,0.89,0.89
+Malawi,Gender_Inequality_Index,0.68,0.68,0.68,0.67,0.65,0.65,0.64,0.64,0.63,0.61,0.60,0.60,0.60,0.60
+Malaysia,Gender_Development_Index,0.93,0.92,0.93,0.93,0.93,0.93,0.93,0.93,0.93,0.94,0.94,0.94,0.94,0.94
+Malaysia,Gender_Inequality_Index,0.33,0.32,0.32,0.32,0.32,0.32,0.32,0.31,0.29,0.28,0.27,0.25,0.23,0.23
+Maldives,Gender_Development_Index,0.90,0.90,0.91,0.91,0.92,0.92,0.92,0.93,0.93,0.93,0.93,0.93,0.93,0.93
+Maldives,Gender_Inequality_Index,0.51,0.49,0.47,0.45,0.43,0.36,0.33,0.31,0.29,0.31,0.28,0.26,0.24,0.23
+Mali,Gender_Development_Index,0.73,0.73,0.73,0.73,0.73,0.73,0.74,0.76,0.78,0.79,0.80,0.77,0.77,0.77
+Mali,Gender_Inequality_Index,0.72,0.72,0.72,0.72,0.72,0.72,0.69,0.68,0.67,0.66,0.65,0.65,0.65,0.64
+Malta,Gender_Development_Index,0.91,0.91,0.92,0.92,0.91,0.92,0.94,0.93,0.94,0.94,0.94,0.95,0.95,0.95
+Malta,Gender_Inequality_Index,0.28,0.28,0.27,0.29,0.28,0.27,0.28,0.27,0.27,0.27,0.27,0.26,0.26,0.22
+Mauritania,Gender_Development_Index,0.74,0.74,0.75,0.76,0.77,0.77,0.77,0.78,0.78,0.79,0.79,0.80,0.80,0.81
+Mauritania,Gender_Inequality_Index,0.74,0.74,0.73,0.73,0.73,0.68,0.65,0.64,0.63,0.62,0.62,0.62,0.61,0.61
+Mauritius,Gender_Development_Index,0.92,0.92,0.93,0.93,0.93,0.93,0.94,0.94,0.95,0.95,0.95,0.96,0.96,0.96
+Mauritius,Gender_Inequality_Index,0.43,0.43,0.43,0.43,0.43,0.36,0.37,0.38,0.39,0.39,0.39,0.39,0.39,0.39
+Mexico,Gender_Development_Index,0.91,0.91,0.91,0.92,0.92,0.92,0.93,0.93,0.93,0.94,0.94,0.94,0.94,0.94
+Mexico,Gender_Inequality_Index,0.48,0.47,0.47,0.44,0.43,0.42,0.42,0.41,0.41,0.40,0.40,0.40,0.37,0.37
+Moldova,Gender_Development_Index,0.97,0.98,0.98,0.98,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+Moldova,Gender_Inequality_Index,0.39,0.35,0.33,0.33,0.30,0.27,0.28,0.29,0.29,0.29,0.31,0.29,0.27,0.25
+Mongolia,Gender_Development_Index,1.01,1.01,1.02,1.02,1.02,1.02,1.02,1.02,1.03,1.02,1.02,1.02,1.02,1.02
+Mongolia,Gender_Inequality_Index,0.41,0.40,0.39,0.38,0.41,0.40,0.40,0.39,0.42,0.42,0.42,0.41,0.33,0.32
+Morocco,Gender_Development_Index,0.78,0.78,0.78,0.80,0.80,0.80,0.81,0.81,0.81,0.82,0.82,0.82,0.83,0.83
+Morocco,Gender_Inequality_Index,0.70,0.71,0.56,0.55,0.54,0.54,0.54,0.54,0.54,0.54,0.53,0.50,0.50,0.50
+Mozambique,Gender_Development_Index,0.83,0.83,0.84,0.84,0.85,0.85,0.86,0.86,0.87,0.87,0.87,0.88,0.88,0.88
+Mozambique,Gender_Inequality_Index,0.64,0.64,0.64,0.64,0.63,0.63,0.62,0.62,0.62,0.61,0.60,0.60,0.59,0.59
+Myanmar,Gender_Development_Index,1.03,0.96,0.97,0.96,,,,,,,,,,
+Myanmar,Gender_Inequality_Index,,,,,,,,,,,0.44,0.44,0.40,0.39
+Namibia,Gender_Development_Index,0.95,0.95,0.96,0.96,0.97,0.97,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98
+Namibia,Gender_Inequality_Index,0.51,0.51,0.51,0.50,0.50,0.49,0.49,0.48,0.47,0.46,0.45,0.44,0.43,0.42
+Nepal,Gender_Development_Index,0.76,0.77,0.78,0.79,0.79,0.81,0.83,0.83,0.85,0.88,0.90,0.90,0.90,0.91
+Nepal,Gender_Inequality_Index,0.67,0.66,0.66,0.65,0.64,0.63,0.63,0.56,0.52,0.51,0.50,0.49,0.48,0.48
+Netherlands,Gender_Development_Index,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.95,0.95,0.95,0.95,0.95
+Netherlands,Gender_Inequality_Index,0.10,0.10,0.10,0.08,0.07,0.06,0.06,0.05,0.05,0.05,0.06,0.06,0.06,0.06
+New Zealand,Gender_Development_Index,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.99,0.99,0.99,0.99
+New Zealand,Gender_Inequality_Index,0.18,0.18,0.18,0.18,0.19,0.18,0.18,0.18,0.18,0.17,0.17,0.16,0.15,0.15
+Nicaragua,Gender_Development_Index,,,0.92,0.93,0.93,0.94,0.95,0.95,0.95,0.95,0.96,0.96,0.96,0.96
+Nicaragua,Gender_Inequality_Index,0.58,0.55,0.53,0.52,0.52,0.51,0.52,0.51,0.51,0.50,0.49,0.45,0.45,0.45
+Niger,Gender_Development_Index,0.60,,,0.66,0.66,0.66,0.67,0.67,0.68,0.69,0.70,0.70,0.71,0.71
+Niger,Gender_Inequality_Index,0.82,0.82,0.81,0.81,0.73,0.73,0.73,0.73,0.72,0.73,0.72,0.72,0.71,0.71
+"North Macedonia, Republic of",Gender_Development_Index,,,,,,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94,0.94
+Norway,Gender_Development_Index,0.99,0.99,0.99,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00
+Norway,Gender_Inequality_Index,0.10,0.09,0.09,0.09,0.08,0.08,0.08,0.08,0.08,0.07,0.07,0.07,0.07,0.06
+Oman,Gender_Development_Index,,,,0.89,,,,,0.91,,,,,
+Pakistan,Gender_Development_Index,0.58,,,,,,0.69,0.69,0.69,0.72,0.72,0.72,0.72,0.72
+Pakistan,Gender_Inequality_Index,0.67,0.64,0.62,0.61,0.60,0.59,0.57,0.57,0.56,0.55,0.54,0.53,0.53,0.53
+Panama,Gender_Development_Index,0.96,0.96,0.97,0.97,0.97,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.99
+Panama,Gender_Inequality_Index,0.51,0.50,0.50,0.50,0.47,0.47,0.47,0.47,0.47,0.50,0.50,0.50,0.50,0.50
+Papua New Guinea,Gender_Development_Index,0.86,0.86,0.86,0.86,0.86,0.86,0.86,0.87,0.87,,,,,
+Papua New Guinea,Gender_Inequality_Index,0.67,0.66,0.68,0.69,0.69,0.69,0.68,0.68,0.68,0.67,0.67,0.67,0.61,0.61
+Paraguay,Gender_Development_Index,0.92,0.92,0.92,0.92,0.93,0.92,0.93,0.93,0.94,0.94,0.94,0.94,0.95,0.95
+Paraguay,Gender_Inequality_Index,0.59,0.60,0.60,0.53,0.52,0.52,0.52,0.51,0.50,0.49,0.49,0.49,0.49,0.47
+Peru,Gender_Development_Index,,0.92,0.93,0.93,0.93,0.93,0.93,0.94,0.94,0.94,0.94,0.94,0.95,0.95
+Peru,Gender_Inequality_Index,0.50,0.48,0.48,0.47,0.46,0.46,0.43,0.42,0.41,0.41,0.41,0.42,0.41,0.41
+Philippines,Gender_Development_Index,0.98,0.98,0.99,0.98,0.99,0.98,0.98,0.98,0.99,0.99,0.99,0.99,0.99,0.99
+Philippines,Gender_Inequality_Index,0.48,0.46,0.46,0.46,0.47,0.47,0.47,0.45,0.45,0.44,0.44,0.43,0.43,0.42
+Poland,Gender_Development_Index,0.99,0.99,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.01,1.01,1.01,1.01
+Poland,Gender_Inequality_Index,0.19,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.16,0.15,0.15,0.14,0.13,0.13
+Portugal,Gender_Development_Index,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98,0.98
+Portugal,Gender_Inequality_Index,0.20,0.19,0.19,0.18,0.18,0.17,0.17,0.14,0.14,0.14,0.13,0.12,0.12,0.11
+Qatar,Gender_Development_Index,0.97,0.97,0.96,0.95,0.94,0.95,0.95,0.96,0.96,0.96,0.96,0.97,0.97,0.97
+Qatar,Gender_Inequality_Index,,,,,,,0.55,0.55,0.54,0.53,0.53,0.52,0.52,0.51
+Romania,Gender_Development_Index,0.97,0.97,0.97,0.97,0.98,0.98,0.98,0.98,0.99,0.99,0.99,0.98,0.99,0.99
+Romania,Gender_Inequality_Index,0.39,0.37,0.36,0.35,0.34,0.33,0.33,0.34,0.33,0.33,0.33,0.33,0.32,0.33
+Russian Federation,Gender_Development_Index,,,,1.03,1.04,1.04,1.03,1.03,1.03,1.03,1.03,1.02,1.02,1.01
+Russian Federation,Gender_Inequality_Index,0.40,0.39,0.38,0.37,0.35,0.34,0.34,0.31,0.31,0.31,0.30,0.30,0.29,0.28
+Rwanda,Gender_Development_Index,0.88,0.90,0.90,0.91,0.91,0.92,0.92,0.93,0.93,0.94,0.95,0.95,0.94,0.94
+Rwanda,Gender_Inequality_Index,0.55,0.54,0.53,0.49,0.48,0.47,0.47,0.46,0.44,0.43,0.42,0.42,0.41,0.39
+Saudi Arabia,Gender_Development_Index,,,,,,0.86,0.87,0.87,0.87,0.88,0.88,0.88,0.88,0.89
+Saudi Arabia,Gender_Inequality_Index,,,,0.68,0.67,0.66,0.65,0.64,0.64,0.64,0.64,0.63,0.63,0.28
+Senegal,Gender_Development_Index,0.78,0.78,0.78,,,,0.86,0.86,0.86,0.86,0.87,0.88,0.88,0.88
+Senegal,Gender_Inequality_Index,0.64,0.62,0.61,0.61,0.60,0.60,0.60,0.59,0.58,0.58,0.57,0.57,0.53,0.53
+"Serbia, Republic of",Gender_Development_Index,,0.95,0.95,0.95,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.95,0.95,0.96
+"Serbia, Republic of",Gender_Inequality_Index,,,,,,,0.22,0.18,0.18,0.19,0.19,0.19,0.17,0.17
+Sierra Leone,Gender_Development_Index,,0.79,0.79,0.79,0.79,0.79,0.79,0.79,0.79,0.79,0.79,0.79,0.79,0.80
+Sierra Leone,Gender_Inequality_Index,0.68,0.68,0.67,0.66,0.66,0.66,0.66,0.66,0.66,0.65,0.65,0.65,0.65,0.65
+Singapore,Gender_Inequality_Index,0.28,0.20,0.19,0.16,0.15,0.14,0.11,0.10,0.09,0.10,0.09,0.10,0.09,0.09
+Slovak Republic,Gender_Development_Index,0.96,0.96,0.97,0.97,0.97,0.98,0.98,0.99,0.99,0.99,0.99,0.99,0.99,0.99
+Slovak Republic,Gender_Inequality_Index,0.23,0.22,0.19,0.18,0.19,0.19,0.18,0.18,0.18,0.18,0.18,0.18,0.16,0.16
+Slovenia,Gender_Development_Index,1.00,1.00,1.00,1.00,1.00,1.00,1.01,1.01,1.01,1.01,1.01,1.01,1.01,1.00
+Slovenia,Gender_Inequality_Index,0.15,0.13,0.13,0.13,0.14,0.14,0.13,0.12,0.10,0.08,0.07,0.02,0.01,0.01
+South Africa,Gender_Development_Index,0.95,0.94,0.94,0.94,0.94,0.93,0.93,0.94,0.94,0.94,0.95,0.95,0.95,0.95
+South Africa,Gender_Inequality_Index,0.46,0.45,0.45,0.45,0.45,0.44,0.44,0.43,0.43,0.41,0.41,0.41,0.40,0.40
+Spain,Gender_Development_Index,0.96,0.96,0.96,0.96,0.97,0.97,0.97,0.97,0.98,0.98,0.98,0.98,0.98,0.98
+Spain,Gender_Inequality_Index,0.12,0.13,0.13,0.13,0.12,0.12,0.12,0.12,0.11,0.11,0.10,0.10,0.10,0.10
+Sri Lanka,Gender_Development_Index,0.94,0.94,0.94,0.94,0.94,,,,,,0.94,0.94,0.94,0.94
+Sri Lanka,Gender_Inequality_Index,0.46,0.46,0.46,0.45,0.44,0.43,0.41,0.40,0.40,0.39,0.39,0.38,0.37,0.37
+Sudan,Gender_Development_Index,,0.77,0.78,0.78,0.79,0.79,0.80,0.80,0.80,0.81,0.81,0.82,0.82,0.82
+Sudan,Gender_Inequality_Index,0.69,0.68,0.68,0.67,0.67,0.65,0.64,0.63,0.63,0.62,0.60,0.60,0.59,0.59
+Suriname,Gender_Development_Index,,,,,0.97,0.97,0.97,0.97,0.97,0.97,0.97,0.97,0.98,0.98
+Swaziland,Gender_Development_Index,0.89,0.89,0.88,0.87,0.87,0.87,0.87,0.87,0.87,0.86,0.86,0.86,0.85,0.85
+Swaziland,Gender_Inequality_Index,0.67,0.67,0.67,0.62,0.62,0.62,0.61,0.60,0.59,0.58,0.57,0.57,0.56,0.60
+Sweden,Gender_Development_Index,1.01,1.02,1.02,1.02,1.01,1.01,1.00,1.00,1.00,1.00,1.00,1.00,1.00,1.01
+Sweden,Gender_Inequality_Index,0.06,0.06,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05,0.05
+Switzerland,Gender_Development_Index,0.94,0.95,0.95,0.95,0.95,0.95,0.95,0.95,0.96,0.96,0.96,0.96,0.96,0.96
+Switzerland,Gender_Inequality_Index,0.10,0.09,0.09,0.08,0.08,0.08,0.07,0.06,0.06,0.05,0.04,0.04,0.03,0.02
+Syrian Arab Republic,Gender_Development_Index,0.81,0.81,0.82,0.83,0.82,0.82,0.82,0.83,0.83,0.83,0.83,0.84,0.84,0.84
+Syrian Arab Republic,Gender_Inequality_Index,0.54,0.54,0.54,0.53,0.53,0.54,0.54,0.54,0.53,0.54,0.54,0.54,0.54,0.53
+Tajikistan,Gender_Development_Index,0.90,0.90,0.90,0.91,0.91,0.91,0.91,0.92,0.92,0.93,0.93,0.93,0.93,0.94
+Tajikistan,Gender_Inequality_Index,0.42,0.42,0.41,0.41,0.40,0.38,0.37,0.37,0.37,0.36,0.35,0.35,0.35,0.34
+Tanzania,Gender_Development_Index,0.87,0.87,0.87,0.88,0.88,0.88,0.88,0.89,,,0.91,0.91,0.92,0.92
+Tanzania,Gender_Inequality_Index,0.63,0.62,0.61,0.61,0.61,0.59,0.58,0.58,0.57,0.57,0.56,0.55,0.55,0.55
+Thailand,Gender_Development_Index,0.97,0.97,0.97,0.98,0.98,0.98,0.99,0.99,0.99,0.99,1.00,1.00,1.00,1.00
+Thailand,Gender_Inequality_Index,0.44,0.39,0.39,0.38,0.38,0.37,0.38,0.35,0.35,0.34,0.34,0.32,0.32,0.32
+Togo,Gender_Development_Index,0.77,0.78,0.78,0.79,0.79,0.80,0.80,0.80,0.80,0.80,0.80,0.80,0.80,0.80
+Togo,Gender_Inequality_Index,0.67,0.67,0.67,0.65,0.65,0.64,0.63,0.62,0.62,0.62,0.61,0.61,0.61,0.59
+Tonga,Gender_Development_Index,0.95,0.95,0.95,0.95,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96
+Tonga,Gender_Inequality_Index,0.67,0.67,0.67,0.67,0.67,0.47,0.47,0.48,0.48,0.48,0.67,0.47,0.46,0.46
+Trinidad and Tobago,Gender_Development_Index,0.97,0.97,0.97,0.97,0.98,0.99,0.99,0.98,0.98,0.99,0.99,0.99,0.99,0.99
+Trinidad and Tobago,Gender_Inequality_Index,0.41,0.41,0.37,0.37,0.37,0.36,0.37,0.36,0.36,0.37,0.36,0.36,0.36,0.36
+Tunisia,Gender_Development_Index,0.83,0.84,0.84,0.85,0.85,0.85,0.86,0.86,0.86,0.87,0.87,0.88,0.88,0.88
+Tunisia,Gender_Inequality_Index,0.39,0.38,0.37,0.36,0.31,0.30,0.30,0.29,0.28,0.27,0.26,0.26,0.25,0.25
+Turkey,Gender_Development_Index,0.83,0.84,0.85,0.85,0.84,0.85,0.87,0.88,0.89,0.89,0.90,0.89,0.90,0.90
+Turkey,Gender_Inequality_Index,0.53,0.52,0.51,0.51,0.52,0.51,0.50,0.45,0.44,0.43,0.41,0.37,0.37,0.36
+Uganda,Gender_Development_Index,0.85,0.86,0.87,0.87,0.87,0.87,0.88,0.88,0.89,0.89,0.90,0.90,0.90,0.90
+Uganda,Gender_Inequality_Index,0.64,0.62,0.61,0.61,0.60,0.60,0.58,0.58,0.57,0.56,0.56,0.55,0.54,0.54
+Ukraine,Gender_Development_Index,0.98,0.99,0.99,1.00,1.00,1.00,1.01,1.01,1.01,1.01,1.00,1.00,1.00,1.00
+Ukraine,Gender_Inequality_Index,0.37,0.36,0.36,0.37,0.36,0.36,0.33,0.34,0.34,0.34,0.34,0.33,0.31,0.30
+United Arab Emirates,Gender_Development_Index,0.94,0.94,0.95,0.95,,,,,,,,,0.96,0.96
+United Arab Emirates,Gender_Inequality_Index,0.61,0.61,0.60,0.60,0.60,0.60,0.34,0.23,0.23,0.22,0.22,0.23,0.23,0.23
+United Kingdom,Gender_Development_Index,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96,0.96
+United Kingdom,Gender_Inequality_Index,0.21,0.21,0.21,0.21,0.21,0.21,0.20,0.20,0.20,0.20,0.19,0.18,0.18,0.18
+United States,Gender_Development_Index,0.98,0.98,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,0.99,1.00,1.00,1.00
+United States,Gender_Inequality_Index,0.28,0.28,0.28,0.28,0.28,0.28,0.28,0.29,0.29,0.29,0.29,0.29,0.28,0.28
+Uruguay,Gender_Development_Index,0.98,0.98,0.99,0.99,0.99,1.00,0.99,0.99,1.00,1.00,1.00,1.01,1.01,1.01
+Uruguay,Gender_Inequality_Index,0.40,0.39,0.39,0.39,0.39,0.39,0.39,0.37,0.37,0.35,0.34,0.34,0.33,0.31
+"Venezuela, Republica Bolivariana de",Gender_Development_Index,0.98,0.99,0.99,0.98,0.98,0.98,0.98,0.99,1.01,1.01,1.01,1.01,1.01,1.02
+"Venezuela, Republica Bolivariana de",Gender_Inequality_Index,0.50,0.50,0.50,0.50,0.50,0.47,0.47,0.47,0.47,0.48,0.48,0.48,0.48,0.47
+Vietnam,Gender_Development_Index,0.96,0.95,0.96,0.96,0.96,0.96,0.96,0.97,0.97,,,,,
+Vietnam,Gender_Inequality_Index,0.35,0.34,0.33,0.33,0.32,0.32,0.32,0.32,0.32,0.31,0.31,0.31,0.31,0.31
+West Bank and Gaza,Gender_Development_Index,,,,,0.80,,0.82,,0.83,0.83,0.84,0.85,0.85,0.86
+"Yemen, Republic of",Gender_Development_Index,0.61,0.62,0.62,0.66,0.67,0.68,0.69,0.69,0.71,0.72,0.72,0.73,0.74,0.74
+"Yemen, Republic of",Gender_Inequality_Index,0.80,0.80,0.79,0.81,0.81,0.80,0.80,0.79,0.79,0.78,0.78,0.78,0.78,0.77
+Zambia,Gender_Inequality_Index,0.66,0.65,0.64,0.64,0.63,0.62,0.61,0.60,0.60,0.60,0.59,0.60,0.59,0.59
+Zimbabwe,Gender_Development_Index,0.85,0.85,0.85,0.85,0.85,0.85,0.85,0.86,0.87,0.88,0.89,0.90,0.91,0.92
+Zimbabwe,Gender_Inequality_Index,0.63,0.62,0.62,0.61,0.61,0.59,0.58,0.58,0.58,0.57,0.57,0.56,0.55,0.51
